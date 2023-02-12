@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/joaninha-app/static/css/main.97265a45.css",
-    "main.js": "/joaninha-app/static/js/main.87f68927.js",
+    "main.js": "/joaninha-app/static/js/main.a961760f.js",
     "static/js/787.e40d4528.chunk.js": "/joaninha-app/static/js/787.e40d4528.chunk.js",
     "static/media/panda.png": "/joaninha-app/static/media/panda.c11f22aec70eeef9cdf7.png",
     "index.html": "/joaninha-app/index.html",
     "main.97265a45.css.map": "/joaninha-app/static/css/main.97265a45.css.map",
-    "main.87f68927.js.map": "/joaninha-app/static/js/main.87f68927.js.map",
+    "main.a961760f.js.map": "/joaninha-app/static/js/main.a961760f.js.map",
     "787.e40d4528.chunk.js.map": "/joaninha-app/static/js/787.e40d4528.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.97265a45.css",
-    "static/js/main.87f68927.js"
+    "static/js/main.a961760f.js"
   ]
 }
